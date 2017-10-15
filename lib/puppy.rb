@@ -14,3 +14,5 @@ class Puppy
     "#{name} is just a lil pup. He's a #{breed}."
   end
 end
+
+# simulate adding a new change
